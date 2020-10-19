@@ -1,6 +1,6 @@
 # gifs_search
 
-A new Flutter project.
+Flutter project made to study and acquire knowledge. Course taken through the Udemy platform and taught by Daniel Ciolfi
 
 ## Getting Started
 
